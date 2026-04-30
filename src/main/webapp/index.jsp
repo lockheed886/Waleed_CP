@@ -6,6 +6,6 @@
         <li>Su-57 Felon</li>
         <li>F-35 Lightning II</li>
     </ul>
-    <p>Fighter jets are assigned to "Wing Commander Chaudry Fraz Gorsi"</p>
+    <h3>Fighter jets are assigned to <strong>"Wing Commander Chaudry Fraz Gorsi"</strong></h3>
 </body>
 </html>
